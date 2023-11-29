@@ -59,11 +59,9 @@
 <br>
 <a href="https://app.daily.dev/ntu002"></a>
 <div align="left">
-    <img height="170" alt="stat-1" src="https://github-readme-stats.vercel.app/api?username=ntu002&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
-    <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=ntu002&hide_border=true" />
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntu002&show_icons=true&locale=en&layout=compact" alt="ntu002" /></p>
-    <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan751&layout=compact&theme=algolia"/> -->
-    <!-- <img width="434" src="https://github-readme-stats.vercel.app/api?username=dylan751&show_icons=true&theme=algolia" /> -->
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntu002&layout=compact&theme=algolia"/>
+    <img width="415" src="https://github-readme-stats.vercel.app/api?username=ntu002&show_icons=true&theme=algolia" /> 
+    <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=ntu002&hide_border=true&theme=algolia" />
 </div>
 <br>
 
