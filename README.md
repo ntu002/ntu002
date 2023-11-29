@@ -1,9 +1,7 @@
 <h1 align="center">Heya 👋, I'm Nguyen Ngoc Tu</h1>
 <h3 align="center">Student at Hanoi University of Science and Technology - HUST</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntu002&label=Profile%20views&color=0e75b6&style=flat" alt="ntu002" /> </p>
-
-<h3 align="left">Contact me 📞</h3>
+<h2 align="left">Contact me 📞</h2>
 <br>
 <div align="left">
     <a href="https://www.facebook.com/profile.php?id=100014502258805" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
@@ -13,7 +11,7 @@
 </p>
 </div>
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
