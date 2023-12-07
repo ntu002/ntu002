@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋, I'm Nguyen Ngoc Tu</h1>
-<h3 align="center">Student at Hanoi University of Science and Technology - HUST</h3>
+<h3 align="center">Student at Hanoi University of Science and Technology-HUST</h3>
 
 <h2 align="left">Contact me 📞</h2>
 <br>
