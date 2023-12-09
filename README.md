@@ -1,7 +1,7 @@
 <h1 align="center">Heya 👋, I'm Nguyen Ngoc Tu</h1>
 <h3 align="center">Student at Hanoi University of Science and Technology - HUST</h3>
 
-<h2 align="left">Contact me 📞</h2>
+<h2 align="left">Contact me ☎️📞📱</h2>
 <br>
 <div align="left">
     <a href="https://www.facebook.com/profile.php?id=100014502258805" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
